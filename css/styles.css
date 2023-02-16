@@ -9,13 +9,11 @@ body {
 }
 
 .header-web {
-  width: 44px;
-  height: 24px;
   font-family: "Raleway";
   font-style: normal;
   font-weight: 800;
   font-size: 18px;
-  line-height: 1.33em;
+  line-height: 1.33;
   display: flex;
   align-items: center;
   letter-spacing: 0.03em;
@@ -25,13 +23,11 @@ body {
 }
 
 .header-text {
-  width: 71px;
-  height: 24px;
   font-family: "Raleway";
   font-style: normal;
   font-weight: 800;
   font-size: 18px;
-  line-height: 1.33em;
+  line-height: 1.33;
   display: flex;
   align-items: center;
   letter-spacing: 0.03em;
@@ -43,7 +39,7 @@ body {
 .header-list {
   font-weight: 500;
   font-size: 16px;
-  line-height: 1.5em;
+  line-height: 1.5;
   letter-spacing: 0.02em;
   color: var(--text-grey-color);
   flex: none;
@@ -59,7 +55,7 @@ body {
 
 .header-link {
   font-size: 16px;
-  line-height: 1.5em;
+  line-height: 1.5;
   letter-spacing: 0.02em;
   color: #434455;
   text-decoration: none;
@@ -73,7 +69,7 @@ body {
 
 .section-one-text {
   font-size: 56px;
-  line-height: 1.07em;
+  line-height: 1.07;
   text-align: center;
   letter-spacing: 0.02em;
   color: var(--color-white-color);
@@ -85,8 +81,6 @@ body {
 
 .button {
   font-family: "Roboto", sans-serif;
-  width: 169px;
-  height: 56px;
   left: 636px;
   top: 428px;
   background: #4d5ae5;
@@ -102,8 +96,7 @@ body {
 
 .button-text {
   font-size: 16px;
-  line-height: 1.5em;
-  display: flex;
+  line-height: 1.5;
   align-items: center;
   letter-spacing: 0.04em;
   color: var(--color-white-color);
@@ -114,7 +107,7 @@ body {
 
 .section-two-team {
   font-size: 20px;
-  line-height: 1.2em;
+  line-height: 1.2;
   letter-spacing: 0.02em;
   color: var(--text-grey-color);
   flex: none;
@@ -124,7 +117,7 @@ body {
 
 .section-two-text {
   font-size: 16px;
-  line-height: 1.5em;
+  line-height: 1.5;
   letter-spacing: 0.02em;
   color: #434455;
   flex: none;
@@ -147,7 +140,7 @@ body {
 
 .section-four-team {
   font-size: 36px;
-  line-height: 1.11em;
+  line-height: 1.11;
   text-align: center;
   letter-spacing: 0.02em;
   text-transform: capitalize;
@@ -156,7 +149,7 @@ body {
 
 .section-four-name {
   font-size: 20px;
-  line-height: 24px;
+  line-height: 1.2;
   text-align: center;
   letter-spacing: 0.02em;
   color: var(--text-grey-color);
@@ -167,7 +160,7 @@ body {
 
 .section-four-text {
   font-size: 16px;
-  line-height: 1.2em;
+  line-height: 1.2;
   text-align: center;
   letter-spacing: 0.02em;
   color: #434455;
@@ -185,7 +178,7 @@ body {
   font-style: normal;
   font-weight: 800;
   font-size: 18px;
-  line-height: 1.16em;
+  line-height: 1.16;
   display: flex;
   align-items: center;
   letter-spacing: 0.03em;
@@ -202,7 +195,7 @@ body {
   font-style: normal;
   font-weight: 800;
   font-size: 18px;
-  line-height: 1.16em;
+  line-height: 1.16;
   display: flex;
   align-items: center;
   letter-spacing: 0.03em;
@@ -228,9 +221,8 @@ body {
   background-color: #ffffff;
   font-family: "Roboto";
   font-style: normal;
-  font-weight: 500;
   font-size: 20px;
-  line-height: 24px;
+  line-height: 1.2;
   list-style-type: none;
 }
 
@@ -256,8 +248,9 @@ body {
 
 .portfolio-button-text {
   font-family: "Roboto";
+  font-weight: 500;
   font-size: 16px;
-  line-height: 1.5em;
+  line-height: 1.5;
   display: flex;
   align-items: center;
   text-align: center;
@@ -276,7 +269,7 @@ body {
 
 .portfolio-item {
   font-size: 20px;
-  line-height: 1.2em;
+  line-height: 1.2;
   letter-spacing: 0.02em;
   color: var(--text-grey-color);
   flex: none;
@@ -286,7 +279,7 @@ body {
 
 .portfolio-text {
   font-size: 16px;
-  line-height: 1.5em;
+  line-height: 1.5;
   letter-spacing: 0.02em;
   color: #434455;
   flex: none;
