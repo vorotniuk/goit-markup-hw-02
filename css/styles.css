@@ -80,7 +80,9 @@ body {
 }
 
 .button {
-  font-family: "Roboto", sans-serif;
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 500;
   left: 636px;
   top: 428px;
   background: #4d5ae5;
